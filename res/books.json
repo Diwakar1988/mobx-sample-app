@@ -1,0 +1,58 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "Steve Jobs",
+            "author": "Walter Isaacson",
+            "description": "From the author of the bestselling biographies of Benjamin Franklin and Albert Einstein, this is the exclusive, New York Times bestselling biography of Apple co-founder Steve Jobs. Based on more than forty interviews with Jobs conducted over two years—as well as interviews with more than a hundred family members, friends, adversaries, competitors, and colleagues—Walter Isaacson has written a riveting story of the roller-coaster life and searingly intense personality of a creative entrepreneur whose passion for perfection and ferocious drive revolutionized six industries: personal computers, animated movies, music, phones, tablet computing, and digital publishing.",
+            "image": "https://images.gr-assets.com/books/1511288482l/11084145.jpg",
+            "category": "technology",
+            "borrowed": false
+        },
+        {
+            "id": 2,
+            "name": "What Technology Wants",
+            "author": "Kevin Kelly",
+            "description": "Verbalizing visceral feelings about technology, whether attraction or repulsion, Kelly explores the “technium,” his term for the globalized, interconnected stage of technological development. Arguing that the processes creating the technium are akin to those of biological evolution, Kelly devotes the opening sections of his exposition to that analogy, maintaining that the technium exhibits a similar tendency toward self-organizing complexity. Having defined the technium, Kelly addresses its discontents, as expressed by the Unabomber (although Kelly admits to trepidation in taking seriously the antitechnology screeds of a murderer) and then as lived by the allegedly technophobic Amish. From his observations and discussions with some Amish people, Kelly extracts some precepts of their attitudes toward gadgets, suggesting folk in the secular world can benefit from the Amish approach of treating tools as servants of self and society rather than as out-of-control masters. Exploring ramifications of technology on human welfare and achievement, Kelly arrives at an optimistic outlook that will interest many, coming, as it does, from the former editor of Wired magazine.",
+            "image": "https://images.gr-assets.com/books/1442769612l/7954936.jpg",
+            "category": "technology",
+            "borrowed": false
+        },
+        {
+            "id": 3,
+            "name": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+            "author": "Ashlee Vance",
+            "description": "Elon Musk, the entrepreneur and innovator behind SpaceX, Tesla, and SolarCity, sold one of his internet companies, PayPal, for $1.5 billion. Ashlee Vance captures the full spectacle and arc of the genius's life and work, from his tumultuous upbringing in South Africa and flight to the United States to his dramatic technical innovations and entrepreneurial pursuits. Vance uses Musk's story to explore one of the pressing questions of our age: can the nation of inventors and creators who led the modern world for a century still compete in an age of fierce global competition? He argues that Musk is an amalgam of legendary inventors and industrialists including Thomas Edison, Henry Ford, Howard Hughes, and Steve Jobs. More than any other entrepreneur today, Musk has dedicated his energies and his own vast fortune to inventing a future that is as rich and far-reaching as the visionaries of the golden age of science-fiction fantasy",
+            "image": "https://images.gr-assets.com/books/1518291452l/25541028.jpg",
+            "category": "technology",
+            "borrowed": false
+        },
+        {
+            "id": 4,
+            "name": "Becoming",
+            "author": "Michelle Obama",
+            "description": "Becoming is the memoir of former United States First Lady Michelle Obama published in 2018. Described by the author as a deeply personal experience, the book talks about her roots and how she found her voice, as well as her time in the White House, her public health campaign, and her role as a mother.",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/41qGit0qA8L._SX316_BO1,204,203,200_.jpg",
+            "category": "biography",
+            "borrowed": false
+        },
+        {
+            "id": 5,
+            "name": "I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban",
+            "author": "Christina Lamb and Malala Yousafzai",
+            "description": "I Am Malala: The Story of the Girl Who Stood Up for Education and was Shot by the Taliban is an autobiographical book by Malala Yousafzai, co-written with Christina Lamb. It was published on 8 October 2013, by Weidenfeld & Nicolson in the UK and Little, Brown and Company in the US. ",
+            "image": "https://di2ponv0v5otw.cloudfront.net/posts/2018/07/29/5b5e6e5fc61777cf1f95a3d8/m_5b5e6e7afb38038b6f14cbb3.jpg",
+            "category": "biography",
+            "borrowed": false
+        },
+        {
+            "id": 6,
+            "name": "Dreams From My Father",
+            "author": "Barack Obama",
+            "description": "Dreams from My Father: A Story of Race and Inheritance is a memoir by Barack Obama, who was elected as U.S. President in 2008. The memoir explores the events of Obama's early years in Honolulu and Chicago up until his entry into law school in 1988.",
+            "image": "https://cf2.s3.souqcdn.com/item/2016/03/31/10/46/44/68/item_XL_10464468_13543382.jpg",
+            "category": "biography",
+            "borrowed": false
+        }
+    ]
+}
